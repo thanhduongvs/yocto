@@ -3,7 +3,7 @@
 ![Build Status](https://img.shields.io/badge/yocto-NFS%20and%20TFTP%20boot-green.svg)
 
 ## giao thức truyền boot
-![boot](https://gitlab.com/thanhduongvs/yocto/raw/master/00_image/01_nfs-tftp-boot.png)
+![boot](https://github.com/thanhduongvs/yocto/blob/master/01_nfs-tftp-boot.png)
 
 ## host (ubuntu desktop)
 1. Cài đặt TFTP server:  
